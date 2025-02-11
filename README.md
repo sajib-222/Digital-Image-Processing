@@ -11,6 +11,16 @@ Welcome to the **Digital Image Processing** repository! 🎯 This repository con
 ✅ **Weekly Updates** – New code and explanations are added weekly.  
 ✅ **Resources** – Additional materials, references, and useful links.  
 
+---
+
+## 🏆 Weekly Assignments  
+After learning new concepts, test my understanding through weekly assignments. These assignments are focus on implementing algorithms, solving real-world image processing problems, and enhancing my skills.  
+
+### 📌 **What's in  the Assignments?**  
+- Hands-on coding challenges  
+- Implementing learned techniques from the week  
+- Real-world image processing applications  
+- Analytical & conceptual questions    
 
 ---
 
